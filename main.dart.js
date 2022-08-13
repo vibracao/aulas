@@ -18930,7 +18930,7 @@ if(q>11)q=0
 $.a9U=q
 n=o.$ti.c
 o.rW(A.aG(["count",q+1],p,n))
-o.rW(A.aG(["count",$.Pl+1],p,n))
+o.rW(A.aG(["pairs",$.Pl+1],p,n))
 $.Pl=B.f.bp($.Pl,2)
 s=4
 return A.L(A.vW("pt_BR",A.aa8(),!1,B.BL,"assets/langs"),$async$tx)
