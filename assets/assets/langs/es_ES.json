@@ -1,0 +1,15 @@
+{
+    "flag_en_US": "assets/icons/bandeiraEUAIcon.png",
+    "flag_es_ES": "assets/icons/bandeiraSPAIcon.png",
+    "flag_pt_BR": "assets/icons/bandeiraBRAIcon.png",
+    "en_US":"Inglés(EUA)",
+    "es_ES":"Español(ES)",
+    "pt_BR":"Portugués(BR)",
+    "login": "Acceso",
+    "logout": "Cerrar sesión",
+    "settings": "Ajustes",
+    "info": "Información", 
+    "usb": "USB", 
+    "hart": "Hart", 
+    "log": "Tronco" 
+}
